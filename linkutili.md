@@ -7,7 +7,7 @@ https://www.programmareinpython.it/blog/come-creare-un-chatbot-con-python-e-chat
 https://chatterbot.readthedocs.io/en/stable/
 
 # PHP 
-# un framework che gestisce le domande e le risposte tramite delle API molto intuitive come 
+# un framework che gestisce domande e risposte in una chat, usando delle Api molto intuitive
 https://botman.io/
 
 # Api.ai 
